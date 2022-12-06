@@ -1,5 +1,9 @@
 ﻿
-
+//Roberts, Rayleen
+//IT212
+//Notes: This is the instance Version
+//Behaviors Not Implemented: Reverse while keeping case location
+//                           I'm sure it's something simple, but it remains elusive
 using StringMeAlong_InstanceVersion_Roberts;
 
 string toManipulate = "Sunbeam Tiger";
